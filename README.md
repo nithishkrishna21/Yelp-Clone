@@ -17,3 +17,14 @@ Let's suppose I add a review.
 Here's the result
 
 ![image](https://github.com/nithishkrishna21/Yelp-Clone/assets/105929790/bf97ef5c-c247-4665-beaa-807557364969)
+
+Restaurants can also be edited and deleted.
+
+Here is an example showcasing the edit operation.
+
+![image](https://github.com/nithishkrishna21/Yelp-Clone/assets/105929790/41c994cc-48d6-480f-b385-f0631197c4e2)
+
+I have edited the chipole restaurant details and here is the result
+
+![image](https://github.com/nithishkrishna21/Yelp-Clone/assets/105929790/2f6408da-2e25-4447-b263-d7a8948b7904)
+
